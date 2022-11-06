@@ -12,8 +12,7 @@
     "TheRocket": {
       "commandName": "Project",
       "launchBrowser": true,
-      "launchUrl": "swagger",
-      "applicationUrl": "https://localhost:7294;http://localhost:5092",
+      "applicationUrl": "http://localhost:52437",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
